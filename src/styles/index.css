@@ -10,3 +10,30 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+/*.traffic-light-body {
+    background-color: black;
+    width: 15vh;
+    height: 31vh;
+    border-radius: 15%;
+
+} */
+
+.light {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: gray;
+    margin: 5px;
+}
+
+.traffic-body {
+    margin-left: 48rem;
+    margin-right: 48rem;
+    padding: 15px;
+    border-radius: 25px;
+}
+
+.glow {
+    box-shadow: 0 0 100px white
+    
+}
